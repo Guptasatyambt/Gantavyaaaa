@@ -1,0 +1,358 @@
+
+@media screen and (max-width: 400px){
+  html{
+    font-size: 11px;
+  }
+  body {
+    font-family: sans-serif;
+    background-image: url('images/log-in-bg.jpg');
+    width: 100%;
+    height: 135vh;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+   
+  }
+  .loginbox
+   {
+     width: 100%;
+     height: 100%;
+     background: rgb(97 70 70); 
+     opacity: .95;
+     background-image: linear-gradient(to bottom, rgb(30, 41, 43), rgba(79, 88, 88, 0));
+     color:#fff ;
+     top: 50%;
+   left: 80%;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   box-sizing: border-box;
+   padding: 10px 30px;
+   border-radius: 15px;
+   }
+}
+
+@media screen and (min-width: 400px) and (max-width:576px){
+  html{
+    font-size: 9px;
+  }
+  body {
+    font-family: sans-serif;
+    background-image: url('images/log-in-bg.jpg');
+    width: 100%;
+    height: 110vh;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+   
+  }
+  .loginbox
+   {
+     width: 320px;
+     height: 420px;
+     background: rgb(97 70 70); 
+     opacity: .95;
+     background-image: linear-gradient(to bottom, rgb(30, 41, 43), rgba(79, 88, 88, 0));
+     color:#fff ;
+     top: 50%;
+   left: 80%;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   box-sizing: border-box;
+   padding: 10px 30px;
+   border-radius: 15px;
+   }
+}
+
+@media screen and (min-width: 576px) and (max-width:768px){
+  html{
+    font-size: 10px;
+  }
+  body {
+    font-family: sans-serif;
+    background-image: url('images/log-in-bg.jpg');
+    width: 100%;
+    height: 110vh;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+   
+  }
+  .loginbox
+  {
+    width: 320px;
+    height: 420px;
+    background: rgb(97 70 70); 
+    opacity: .95;
+    background-image: linear-gradient(to bottom, rgb(30, 41, 43), rgba(79, 88, 88, 0));
+    color:#fff ;
+    top: 50%;
+  left: 80%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 10px 30px;
+  border-radius: 15px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width:992px){
+  html{
+    font-size: 11px;
+  }
+  body {
+    font-family: sans-serif;
+    background-image: url('images/log-in-bg.jpg');
+    width: 100%;
+    height: 110vh;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+   
+  }
+  .loginbox
+   {
+     width: 41%;
+     height: 420px;
+     background: rgb(97 70 70); 
+     opacity: .95;
+     background-image: linear-gradient(to bottom, rgb(30, 41, 43), rgba(79, 88, 88, 0));
+     color:#fff ;
+     top: 50%;
+   left: 80%;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   box-sizing: border-box;
+   padding: 10px 30px;
+   border-radius: 15px;
+   }
+}
+
+@media screen and (min-width: 992px) and (max-width:1200px){
+  html{
+    font-size: 14px;
+  }
+  body {
+    font-family: sans-serif;
+    background-image: url('images/log-in-bg.jpg');
+    width: 100%;
+    height: 110vh;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+   
+  }
+  .loginbox
+   {
+     width: 320px;
+     height: 420px;
+     background: rgb(97 70 70); 
+     opacity: .95;
+     background-image: linear-gradient(to bottom, rgb(30, 41, 43), rgba(79, 88, 88, 0));
+     color:#fff ;
+     top: 50%;
+   left: 80%;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   box-sizing: border-box;
+   padding: 10px 30px;
+   border-radius: 15px;
+   }
+}
+
+@media screen and (min-width: 1200px) and (max-width:1400px){
+  html{
+    font-size: 15px;
+  }
+  body {
+    font-family: sans-serif;
+    background-image: url('images/log-in-bg.jpg');
+    width: 100%;
+    height: 110vh;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+   
+  }
+  .loginbox
+   {
+     width: 320px;
+     height: 420px;
+     background: rgb(97 70 70); 
+     opacity: .95;
+     background-image: linear-gradient(to bottom, rgb(30, 41, 43), rgba(79, 88, 88, 0));
+     color:#fff ;
+     top: 50%;
+   left: 80%;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   box-sizing: border-box;
+   padding: 10px 30px;
+   border-radius: 15px;
+   }
+}
+
+@media screen and (min-width: 1400px){
+
+  html{
+    font-size: 16px;
+  }
+body {
+     font-family: sans-serif;
+     background-image: url('images/log-in-bg.jpg');
+     width: 100%;
+     height: 100vh;
+     margin: 0;
+     padding: 0;
+     background-size: cover;
+     background-position: center;
+    
+   }
+   .loginbox
+   {
+     width: 320px;
+     height: 420px;
+     background: rgb(97 70 70); 
+     opacity: .95;
+     background-image: linear-gradient(to bottom, rgb(30, 41, 43), rgba(79, 88, 88, 0));
+     color:#fff ;
+     top: 50%;
+   left: 80%;
+   position: absolute;
+   transform: translate(-50%,-50%);
+   box-sizing: border-box;
+   padding: 10px 30px;
+   border-radius: 15px;
+   }
+  }
+
+   
+   .avatar
+   {
+     width: 100px;
+     height: 100px;
+     border-radius: 50%;
+     position: absolute;
+     top: 0px;
+     left: calc(50% - -50px);
+     
+   }
+   .subject-line{
+    font-size: 1.1rem;
+    font-style: italic;
+    color: red;
+    position: absolute;
+    top:4.5rem;
+    left: calc(33% - -50px) ;
+   }
+   
+   
+   .loginbox input {
+     width : 50%;
+     margin-bottom: 15px;
+     margin-top: 10;
+ 
+   }
+   .loginbox input[type="text"] , input[type = "password"]
+   {
+     border: none;
+     border-bottom: 1px solid #fff;
+     background: transparent;
+     outline: none;
+     height: 20px;
+     color: black;
+     font-size: 16px;
+     
+   }  
+   .loginbox input[value = "Google"] 
+   
+   {
+     border: none;
+     outline: none;
+     background: #00a1fe;
+     color: #fff;
+     font-size: 7px;
+     width: 70px;
+     border-radius: 15px;
+     
+   }
+   .loginbox input[value = "Facebook"] 
+   
+   {
+     border: none;
+     outline: none;
+     background: #00a1fe;
+     color: #fff;
+     font-size: 7px;
+     width: 70px;
+     border-radius: 15px;
+     
+   }
+   .loginbox input[type="text"]:focus{
+    width: 70%;
+   }
+   .loginbox input[type="password"]:focus{
+    width: 70%;
+   }
+   
+    .loginbox input[type = "submit"] 
+   
+   {
+     border: none;
+     outline: none;
+     background: #00a1fe;
+     color: #fff;
+     font-size: 13px;
+     border-radius: 15px;
+     
+   }
+    .loginbox input[type = "submit"]:hover 
+   
+   {
+     cursor: pointer;
+     background: #5fbaef;
+     color: #000;
+   }
+ 
+   .loginbox a{
+     text-decoration: none;
+     font-size: 14px;
+     line-height: 20px;
+     color: rgba(225, 229, 236, 0.925);
+   }
+   .loginbox a:hover
+   {
+     color:rgb(68, 149, 211)
+    
+   }
+   
+   #sign-up{
+    text-decoration: none;
+   
+    color: rgb(56, 159, 219);
+   }
+   #sign-up:hover{
+    color:  rgb(94, 171, 216);
+    
+   }
+   
+   .facebook{
+    margin-left: -.8rem;
+     height: 2.2rem;
+     cursor: pointer;
+   }
+   .google-logo{
+    margin-left: 1rem;
+   
+   
+    position: absolute;
+    top: 23.5rem;
+   }
+   .foot{
+    color: rgb(255, 255, 255);
+   }
